@@ -22,4 +22,4 @@ I focus on continuous learning, to enhance my skills and solidify my knowledge :
 [![Mis Tech Skills](https://skillicons.dev/icons?i=java,js,html,css,mysql,postgres&theme=dark)](https://skillicons.dev)
 
 ### Learning
-[![Aprendiendo](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
+[![Aprendiendo](https://skillicons.dev/icons?i=linux,python&theme=dark)](https://skillicons.dev)
