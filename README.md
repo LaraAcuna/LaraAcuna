@@ -6,6 +6,6 @@ Gracias por pasar 👋
 
 <hr>
 
-Currently learning theory and practice around ontology engineering and Big Data (school), also IT Goverment and Business Continuity ⛑️ (work)
+Currently learning theory and practice around ontology engineering and Big Data (school), also IT Government and Business Continuity ⛑️ (work)
 
 Thanks for stopping by 😄
